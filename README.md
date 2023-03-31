@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrtzTheCat
 - 👀 I’m interested in video games, virtual reality landscapes creation through 3D softwares
-- 🌱 I’m currently improving my skills withe Ue4, Maya, substance designer
-- 💞️ I’m looking to collaborate on videogames, artistic projects, render in general
+- 🌱 I’m currently improving my skills withe Ue5, Maya, substance designer
+- 💞️ I’m looking to collaborate on videogames, artistic projects and 3D world in general
 - 📫 How to reach me federicofritz1@gmail.com
 
 <!---
